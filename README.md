@@ -6,7 +6,7 @@ I am **Godspower Eze**, a Software Engineer who enjoys creating content on the w
 
 I am interested in Blockchain technology, Mathematics, Zero-knowledge Proofs, System design, Design patterns, and Clean code.
 
-I have written a couple of [twitter threads](https://twitter.com/0xgodspower/status/1374407646762037259) teaching blockchain and I also created [Blockchaintotheworld](blockchaintotheworld.com/) to do the same.
+I have written over 30 [twitter threads](https://twitter.com/0xgodspower/status/1374407646762037259) teaching blockchain and I also created [Blockchaintotheworld](blockchaintotheworld.com/) to do the same.
 
 Check out my ongoing series called [30DaysOfSolidity](https://github.com/Godspower-Eze/30DaysOfSolidity) to learn the Solidity programming language.
 
