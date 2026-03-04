@@ -2,6 +2,8 @@
 
 thinker · writer · researcher · builder
 
+Interested in AI, mathematics, zero-knowledge proofs and cryptography.
+
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
